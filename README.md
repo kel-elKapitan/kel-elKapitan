@@ -7,4 +7,5 @@
 Element: @kelkapitan:matrix.org, Slack: mr.kelly.mcgowan or
 LinkedIn: https://www.linkedin.com/in/kelly-mcgowan-093311219
 
+Follow me on my current project, check out my Dimension_Reduction repo.
 
